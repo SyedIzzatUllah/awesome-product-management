@@ -254,7 +254,7 @@ Hellonext helps you close the user feedback loop. Comes with feedback portal, ro
 - [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://twitter.com/christineitwaru).
 - [It’s Time to Fight for a Dual Product Management Career Path](https://newsletter.bringthedonuts.com/p/dual-product-management-career-path) - By [Ken Norton](https://twitter.com/kennethn).
 - [The Tools Don't Matter](https://newsletter.bringthedonuts.com/p/the-tools-dont-matter) - By [Ken Norton](https://twitter.com/kennethn).
-- [What is Product Operations](https://medium.com/@usmansyed738/what-is-product-operations-8f1e40f7fbba) - By [Syed Izzat Ullah]
+- [What is Product Operations](https://medium.com/@usmansyed738/what-is-product-operations-8f1e40f7fbba) - By [Syed Izzat Ullah](https://twitter.com/syedizzat_u).
 
 ## Books
 
